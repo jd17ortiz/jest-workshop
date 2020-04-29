@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`changes the class when hovered 1`] = `
+<div>
+  <a
+    className="normal"
+    href="http://www.facebook.com"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    Facebook
+  </a>
+</div>
+`;
+
+exports[`changes the class when hovered 2`] = `
+<div>
+  <a
+    className="hovered"
+    href="http://www.facebook.com"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    Facebook
+  </a>
+</div>
+`;
+
+exports[`changes the class when hovered 3`] = `
+<div>
+  <a
+    className="normal"
+    href="http://www.facebook.com"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    Facebook
+  </a>
+</div>
+`;
+
+exports[`msg is show when click link 1`] = `
+<div>
+  <a
+    className="normal"
+    href="http://www.facebook.com"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    Facebook
+  </a>
+  <span>
+    already click
+  </span>
+</div>
+`;
+
+exports[`renders correctly 1`] = `
+<div>
+  <a
+    className="normal"
+    href="http://www.facebook.com"
+    onClick={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    Facebook
+  </a>
+</div>
+`;
