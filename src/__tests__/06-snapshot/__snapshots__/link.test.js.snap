@@ -17,7 +17,7 @@ exports[`changes the class when hovered 1`] = `
 exports[`changes the class when hovered 2`] = `
 <div>
   <a
-    className="hovered"
+    className="hovered22"
     href="http://www.facebook.com"
     onClick={[Function]}
     onMouseEnter={[Function]}
@@ -32,7 +32,7 @@ exports[`changes the class when hovered 3`] = `
 <div>
   <a
     className="normal"
-    href="http://www.facebook.com"
+    href="http://www.facebook22.com"
     onClick={[Function]}
     onMouseEnter={[Function]}
     onMouseLeave={[Function]}
@@ -45,7 +45,7 @@ exports[`changes the class when hovered 3`] = `
 exports[`msg is show when click link 1`] = `
 <div>
   <a
-    className="normal"
+    className="normal2"
     href="http://www.facebook.com"
     onClick={[Function]}
     onMouseEnter={[Function]}
