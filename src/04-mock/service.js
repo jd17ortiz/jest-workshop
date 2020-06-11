@@ -15,6 +15,6 @@ const users = [
 
 export default {
   getName: (id) => {
-    return users.find((user) => user.id === id) || "Unknown";
+    
   },
 };
